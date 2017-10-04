@@ -1,0 +1,98 @@
+/*.main {
+	background: #EBD1EB;
+}*/
+#app {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.row {
+	padding: 2px;
+}
+
+.search-bar {
+	background: #eee;
+	padding: 10px;
+}
+
+.form-group button {
+	width: 100%;
+	background: #5CC1D7;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+.form-group button:hover {
+	background: orange;
+}
+
+.form-group input[type=text] {
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+.form-group input[type=text]:focus {
+	border: 1px solid #5CC1D7;
+}
+
+.panel-body {
+	background: #9DC9E2;
+}
+
+.panel-heading {
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+.panel-lg-heading {
+	font-size: 26px;
+}
+
+.panel-lg, .panel-sm {
+	padding: 2px;
+	text-align: center;
+}
+
+.panel-lg .temp {
+	font-size: 40px;
+	line-height: 100px;
+	height: 100px;
+}
+
+.panel-lg .icon {
+	line-height: 100px;
+	height: 100px;
+}
+
+.panel-lg .icon img {
+	height: 80px;
+	width: 80px;
+}
+
+.panel-lg .high-low {
+	font-size: 20px;
+	padding: 20px 0 20px 0;
+	height: 100px;
+}
+
+.panel-sm {
+	padding: none;
+	margin: none;
+}
+
+.temp-icon {
+	font-size: 30px;
+	line-height: 80px;
+}
+
+.panel-sm .high-low {
+	font-size: 16px;
+}
+
+.forecast-list {
+	padding: 15px;
+}
+
+
+
+
+
