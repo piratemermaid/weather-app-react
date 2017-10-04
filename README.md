@@ -7,7 +7,9 @@ This app displays a week's weather forecast based on the input city using OpenWe
 ### Future Ideas
 
 -User can input zip code or city name
+
 -Calling the API by the ID and not the city name, which would allow for better input checking
+
 -Suggested locations as user is typing
 
 ### Boilerplate
